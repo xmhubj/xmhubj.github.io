@@ -1,2 +1,2 @@
-# xmhubj.github.io
-My github pages
+# Ming
+My github pages :)
